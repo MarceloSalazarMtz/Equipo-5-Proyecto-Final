@@ -19,3 +19,5 @@ Este proyecto es mantenido por todos los contribuyentes en su desarrollo, perten
 
 -Arturo Vázquez Muñoz
 
+Link de acceso al drive:
+https://drive.google.com/drive/folders/1DxclTZwYHM-5PkHAJpKSjvSrzwnTxwfO?usp=sharing
