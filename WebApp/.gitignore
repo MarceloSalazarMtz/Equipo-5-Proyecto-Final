@@ -1,0 +1,5 @@
+darknet/
+model/
+darknet.py
+.DS_Store
+.env
